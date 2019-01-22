@@ -1,7 +1,6 @@
-﻿  Application.cpp
-     Creating library A:\Quiddity\Quiddity\bin\Release-x64\Quiddity\Quiddity.lib and object A:\Quiddity\Quiddity\bin\Release-x64\Quiddity\Quiddity.exp
+﻿     Creating library A:\Quiddity\Quiddity\bin\Release-x64\Quiddity\Quiddity.lib and object A:\Quiddity\Quiddity\bin\Release-x64\Quiddity\Quiddity.exp
   Generating code
-  6 of 6 functions (100.0%) were compiled.
+  0 of 6 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code

@@ -1,5 +1,5 @@
-﻿  GameApp.cpp
-  Generating code
-  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  MineGame.vcxproj -> A:\Quiddity\Quiddity\bin\Release-x64\Retro Shooter\Retro Shooter.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1879,5): warning : The referenced project '..\..\Quiddity\Quiddity\Quiddity\Quiddity.vcxproj' does not exist.
+GameApp.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl QDTY::Application::Run(void)" (__imp_?Run@Application@QDTY@@QEAAXXZ)
+GameApp.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl QDTY::Application::~Application(void)" (__imp_??1Application@QDTY@@UEAA@XZ)
+GameApp.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl QDTY::Application::Application(void)" (__imp_??0Application@QDTY@@QEAA@XZ)
+A:\Quiddity\Quiddity\bin\Release-x64\Retro Shooter\Retro Shooter.exe : fatal error LNK1120: 3 unresolved externals

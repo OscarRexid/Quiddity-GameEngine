@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MineGame", "..\..\GamesMadeInQuiddity\MineGame\MineGame.vcxproj", "{E3FC0601-8BBD-4B04-8D4F-4678C3442A81}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MineGame", "A:\GamesMadeInQuiddity\MineGame\MineGame.vcxproj", "{E3FC0601-8BBD-4B04-8D4F-4678C3442A81}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quiddity", "Quiddity\Quiddity.vcxproj", "{6E9C7350-3D23-49D6-8BE8-8B65FE002581}"
 EndProject
